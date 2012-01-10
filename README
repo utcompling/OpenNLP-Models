@@ -1,0 +1,9 @@
+This project will collect code and documentation for creating models for natural language processing with the Apache OpenNLP Toolkit. The OpenNLP project website is here:
+
+http://incubator.apache.org/opennlp/
+
+The primary reason for this project is that it is not possible to distribute models based on restricted data through the Apache sites, and many of the corpora that are available for training models must be obtained through some licensing agreement. The other purpose is to make it clear what contexts (e.g. academic, industry, etc) a given model may be used in to ensure that the wishes of copyright holders for a given corpus are respected.
+
+Ultimately, this project should replace the old model download site from Sourceforge, especially in ensuring that models are compatible with newer versions of the OpenNLP code.
+
+http://opennlp.sourceforge.net/models-1.5/
